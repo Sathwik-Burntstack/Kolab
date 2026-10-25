@@ -1,0 +1,40 @@
+:root {
+  /* Colour: ink, peacock teal and marigold (from the Figma palette) */
+  --ink: #16181d;
+  --brand: #0e6b66;
+  --brand-text: #0b5753;
+  --brand-soft: #e3efec;
+  --signal: #e9a23b;
+  --signal-text: #a86a12;
+  --signal-soft: #fbf0da;
+  --success: #1f7a3e;
+  --success-soft: #e7f2e9;
+  --danger: #b42318;
+  --danger-soft: #fdecea;
+
+  --bg-canvas: #ffffff;
+  --bg-surface: #ffffff;
+  --bg-sidebar: #f6f6f2;
+  --bg-muted: #f3f3ef;
+  --bg-inverse: #16181d;
+
+  --text-primary: #16181d;
+  --text-secondary: #5c5f58;
+  --text-tertiary: #8e9189;
+  --text-inverse: #ffffff;
+
+  --border: #e7e7e2;
+  --border-strong: #cfcfc7;
+
+  /* Type */
+  --font-display: 'Familjen Grotesk', 'IBM Plex Sans', system-ui, sans-serif;
+  --font-sans: 'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+
+  /* Radius & motion */
+  --r-sm: 6px;
+  --r-md: 10px;
+  --r-lg: 12px;
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+  --sidebar-w: 232px;
+}
